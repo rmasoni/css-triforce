@@ -2,7 +2,7 @@
 
 It's dangerous to go alone.
 
-**CSS Triforce** makes use of CSS borders and pseudo-elements to create a mighty triforce that adapts to the `font-size` of its parent.
+**CSS Triforce** makes use of CSS borders and pseudo-elements to create a mighty triforce that adapts to the `font-size` of its parent. It's like an icon, but more epic.
 
 ## Usage
 
