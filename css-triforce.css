@@ -1,0 +1,26 @@
+.css-triforce,
+.css-triforce:before,
+.css-triforce:after {
+  border: 0.5em solid;
+  border-left: 0.4em solid transparent;
+  border-right: 0.4em solid transparent;
+  border-top: transparent;
+  display: inline-block;
+  height: 0;
+  width: 0; }
+
+.css-triforce {
+  position: relative; }
+
+.css-triforce:before,
+.css-triforce:after {
+  content: "";
+  position: absolute; }
+
+.css-triforce:before {
+  top: -0.5em;
+  left: 0; }
+
+.css-triforce:after {
+  top: 0;
+  left: 0.4em; }
